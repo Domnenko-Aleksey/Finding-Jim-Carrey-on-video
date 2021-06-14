@@ -25,6 +25,15 @@ Colab: https://colab.research.google.com/drive/1694u2IrMXT7F4Z_Ms7vZxdvmsUw-Yj_u
 
 
 ТЕХНИЧЕСКИЕ ОГРАНИЧЕНИЯ
+Скачайте файлы обученной модели самостоятельно и разместите их в папке 'files/dlib_models':
+
+dlib_face_recognition_resnet_model_v1.dat
+shape_predictor_68_face_landmarks.dat
+
+Можно взять из моего проекта на Colab
+https://drive.google.com/drive/folders/1VNPK0EzgDDkUbwYaotDnc2Ij2tHbwwx3?usp=sharing
+
+
 Рекомендуется запуск на google colab, т.к. там настроена вся необходимая среда.
 Крайне не рекомендуется запускать на Windows - потребуется установить и настроить кучу зависимостей для dlib, 
 Visual Studio, C++ - Packages CMake tools для Windows, ffmpeg, настроить переменные среды и др.
