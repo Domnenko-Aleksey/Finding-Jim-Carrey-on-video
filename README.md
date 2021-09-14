@@ -2,6 +2,7 @@
 
 РЕШЕНИЕ
 Github: https://github.com/Domnenko-Aleksey/Finding-Jim-Carrey-on-video
+
 Colab: https://drive.google.com/drive/folders/1VNPK0EzgDDkUbwYaotDnc2Ij2tHbwwx3?usp=sharing
 
 Основное решение - файл 'main.ipynb'
