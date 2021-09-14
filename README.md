@@ -1,4 +1,6 @@
-# Domnenko Aleksey 2021 domnenko@mail.ru, telegram: @domnenko_a_n
+# Domnenko Aleksey 2021 
+## domnenko@mail.ru, 
+## telegram: @domnenko_a_n
 
 РЕШЕНИЕ
 Github: https://github.com/Domnenko-Aleksey/Finding-Jim-Carrey-on-video
